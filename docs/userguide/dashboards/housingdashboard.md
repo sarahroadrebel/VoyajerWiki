@@ -19,12 +19,20 @@ The user guide is broken down into the functional areas of the dashboards, broke
 {:toc}
 
 ## Scope
-
+This user guide has individual sections for each major tab of the internal Dashboards.  It should cover the following in each separate screen at a minimum:
+- Business Processes
+- Expected Workflow
+- Any black box magic the code does
 ### Housing Details
 #### Scope
+Covers the *Housing Details* tab and the fields / business logic contained within it.
+
 #### User Details
+
 #### Technical Details
+
 #### Resources
+
 ### Itinerary Details
 #### Scope
 #### User Details
