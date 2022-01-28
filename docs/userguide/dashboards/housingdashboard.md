@@ -23,6 +23,9 @@ This user guide has individual sections for each major tab of the internal Dashb
 - Business Processes
 - Expected Workflow
 - Any black box magic the code does
+
+<img src="https://sfdcboss.github.io/voyajerwiki/assets/images/housing-details.gif"/>
+
 ### Housing Details
 #### Scope
 Covers the *Housing Details* tab and the fields / business logic contained within it.
