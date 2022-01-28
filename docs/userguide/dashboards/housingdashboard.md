@@ -21,7 +21,7 @@ The user guide is broken down into the functional areas of the dashboards, broke
 ## Scope
 This user guide has individual sections for each major tab of the internal Dashboards.  It should cover the following in each separate screen at a minimum:
 - Business Processes
-- Expected Workflow
+- Expected Workflows
 - Any black box magic the code does
 
 <img src="https://github.com/rr-salesforce/voyajerwiki/blob/main/assets/images/housing-details.gif"/>
