@@ -24,7 +24,7 @@ This user guide has individual sections for each major tab of the internal Dashb
 - Expected Workflow
 - Any black box magic the code does
 
-<img src="https://sfdcboss.github.io/voyajerwiki/assets/images/housing-details.gif"/>
+<img src="https://github.com/rr-salesforce/voyajerwiki/blob/main/assets/images/housing-details.gif"/>
 
 ### Housing Details
 #### Scope
