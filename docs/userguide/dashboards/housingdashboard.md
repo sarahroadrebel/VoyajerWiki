@@ -12,9 +12,9 @@ The user guide is broken down into the functional areas of the dashboards, broke
 {: .fs-6 .fw-300 }
 ## Scope
 This user guide has individual sections for each major tab of the internal Dashboards.  It should cover the following in each separate screen at a minimum:
-- Business Processes
-- Expected Workflows
-- Any black box magic the code does
+* Business Processes
+* Expected Workflows
+* Any black box magic the code does
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -26,29 +26,29 @@ This user guide has individual sections for each major tab of the internal Dashb
 ### Scope
 Covers the *Housing Details* tab and the fields / business logic contained within it.
 
-#### User Details
+### User Details
 
-#### Technical Details
+### Technical Details
 
-#### Resources
+### Resources
 
-### Itinerary Details
-#### Scope
-#### User Details
-#### Technical Details
-#### Resources
-### Stay Details
-#### Scope
-#### User Details
-#### Technical Details
-#### Resources
-### Bid Details
-#### Scope
-#### User Details
-#### Technical Details
-#### Resources
-### Contracting Details
-#### Scope
-#### User Details
-#### Technical Details
-#### Resources
+## Itinerary Details
+### Scope
+### User Details
+### Technical Details
+### Resources
+## Stay Details
+### Scope
+### User Details
+### Technical Details
+### Resources
+## Bid Details
+### Scope
+### User Details
+### Technical Details
+### Resources
+## Contracting Details
+### Scope
+### User Details
+### Technical Details
+### Resources
