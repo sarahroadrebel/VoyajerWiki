@@ -25,7 +25,7 @@ URL: https://app03.mydbsync.com/appcenter/login
 User: autumn@roadrebel.com
 Password:  see clay/sarah
 
-<img src="https://github.com/rr-salesforce/voyajerwiki/blob/main/assets/images/dbsync-login.jpg"/>
+<img src="https://rr-salesforce.github.io/voyajerwiki/assets/images/dbsync-login.jpg"/>
 
 ### Workflows
 
