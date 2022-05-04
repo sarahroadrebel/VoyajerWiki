@@ -41,7 +41,7 @@ Alternatively, you can run it inside Docker while developing your site
 
 [View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
 
-## Contributing
+## Contributing 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
