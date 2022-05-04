@@ -1,0 +1,26 @@
+Fetching gem metadata from https://rubygems.org/.........
+Using rake 13.0.6
+Using public_suffix 4.0.6
+Using bundler 2.3.6
+Using forwardable-extended 2.6.0
+Using rb-fsevent 0.11.0
+Using rexml 3.2.5
+Using liquid 4.0.3
+Using mercenary 0.4.0
+Using colorator 1.1.0
+Using concurrent-ruby 1.1.9
+Using rouge 3.26.1
+Using safe_yaml 1.0.5
+Using unicode-display_width 1.8.0
+Using addressable 2.8.0
+Using kramdown 2.3.1
+Fetching eventmachine 1.2.7
+Using terminal-table 2.0.0
+Fetching http_parser.rb 0.6.0
+Fetching ffi 1.15.4
+Using kramdown-parser-gfm 1.1.0
+Using i18n 1.8.10
+Using pathutil 0.16.2
+Installing http_parser.rb 0.6.0 with native extensions
+Installing eventmachine 1.2.7 with native extensions
+Installing ffi 1.15.4 with native extensions
