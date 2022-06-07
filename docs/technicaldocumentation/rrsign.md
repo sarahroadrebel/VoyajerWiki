@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RRSign
-parent: RRSign Information
+parent: Technical Documentation
 ---
 
 # RRSign
