@@ -42,7 +42,7 @@ Send Signer (SEND_SIGNER):
 - DashboardVFP - docgenevent handled by the page (theNextDestination is where it forwards to)
 - Preview or Send Signer?
 
-- Send Signer - 
+- Send Signer Paths- 
   - Preview and Tag (PREVIEW_TAG) - Complete button saves document with XFDF to be signed
   - Send Now - Sends documents
     - both of these should update "Pending Signature = true" and SENT
