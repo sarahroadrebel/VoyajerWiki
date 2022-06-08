@@ -82,6 +82,8 @@ Change the nav order to fit where you want it in the navigation menu (1 top, 100
 More advanced setups can utilize a VSCode or any IDE setup and commit changes via a text editor, but that is overkill for a very small setup and will be left out.
 
 ### References
+- [setting up wiki editing in vscode details](https://sarahroadrebel.github.io/VoyajerWiki/docs/technicaldocumentation/setupvscode/)
+- [markdown reference](https://www.markdownguide.org/basic-syntax/)
 
 Video for updating and adding:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MsHUn29qmWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
